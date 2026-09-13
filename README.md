@@ -1,7 +1,7 @@
 # 🚀 五大编程语言全栈闯关系统
 支持中英双语一键切换，单HTML零依赖，打开浏览器就能学。
 
-👉 立即体验：👉 立即体验：(https://iack-max.github.io/programming-k-/index.html)
+👉 立即体验：(https://iack-max.github.io/programming-k-/index.html)
 
 ✅ 内置Python/C/C++/Java/Go 5门语言，每门52关从入门到实战
 ✅ 闯关进度自动本地保存，刷新不丢失
