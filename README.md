@@ -7,3 +7,14 @@
 ✅ 闯关进度自动本地保存，刷新不丢失
 ✅ 内置提示+标准答案，卡关不用搜资料
 ✅ MIT开源协议，所有人可自由复用修改
+
+
+# 🚀 5 Programming Languages Full Stack Challenge System
+Bilingual Chinese/English one-click switch, zero-dependency single HTML file, start learning directly in your browser.
+
+👉 Start Challenge Now: https://iack-max.github.io/programming-k-/
+
+✅ Built-in Python / C / C++ / Java / Go, 52 levels for each language from beginner to practical
+✅ Auto save your progress locally, no data loss after page refresh
+✅ Built-in hints + standard answers, no extra search needed when you get stuck
+✅ MIT open source license, everyone can freely reuse and modify this project
